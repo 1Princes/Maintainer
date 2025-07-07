@@ -3,4 +3,5 @@
 ## Contributors
 
 -Master Maintainer/Princes
-Claire
+Claire (contributor A)
+John Rex (contributor B)
